@@ -22,5 +22,8 @@
 
 ![Alt text](./passwd.png "Optional title")
 
+
 URL Utilizada: http://instagram.com
-![Alt text](./cyber1.jng "Optional title")
+
+
+![Alt text](./cyber1.jpg "Optional title")
